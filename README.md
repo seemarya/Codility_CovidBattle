@@ -1,4 +1,4 @@
-# Codility_CovidBattle
+Codility_CovidBattle
 # Import the project to eclipse and then right click on project | Maven | Update Project
 # If you want to run as test ng suite then just right click on testng.xml and run as testng suite.
 # If want to run as Maven then right click on project and first clean and then install | build the project.
